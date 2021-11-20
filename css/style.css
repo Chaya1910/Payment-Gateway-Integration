@@ -1,0 +1,143 @@
+.poem {
+  font-weight: 100;
+  font-family: "Lobster";
+  font-size: 25px;
+  color: rgba(255, 255, 255, 0.788);
+}
+.heading {
+  font-size: 50px;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.788);
+}
+.main {
+  text-align: left;
+  color: white;
+  position: relative;
+  right: 20px;
+  margin-top: 10px;
+}
+.Mainheading {
+  font-size: 60px;
+  color: rgb(214, 183, 8);
+  font-weight: bold;
+}
+.word1 {
+  color: rgb(206, 175, 0);
+}
+.word2 {
+  color: white;
+}
+.word3 {
+  color: black;
+}
+.feature-item {
+  text-align: center;
+  padding: 5rem;
+}
+.howHelp {
+  text-align: center;
+}
+.mission-1 {
+  float: left;
+  left: 150px;
+  opacity: 0.6;
+}
+.mission-2 {
+  text-align: start;
+  padding: 7rem;
+  padding-top: 80px;
+  margin-left: -100px;
+  padding-right: 8rem;
+}
+.mission {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  background-color: rgb(70, 69, 68);
+}
+.about {
+  padding-top: 40px;
+  text-align: center;
+  padding-left: 20rem;
+  padding-right: 20rem;
+  padding-bottom: 50px;
+}
+.education {
+  margin-top: 20px;
+  text-align: center;
+  background-color: rgb(70, 69, 68);
+  color: rgb(255, 255, 255);
+}
+.education-item1 {
+  text-align: start;
+  padding: 5rem 3rem 0 10rem;
+  padding-top: 80px;
+  padding-left: 180px;
+}
+.education-item2 {
+  display: inline-block;
+  float: right;
+  right: 200px;
+  opacity: 0.6;
+}
+.events {
+  text-align: center;
+  padding-top: 40px;
+}
+.event-img {
+  width: 300px;
+  height: 200px;
+  padding-bottom: 5px;
+}
+.event-item {
+  padding-top: 15px;
+  padding: 10px 5px 10px 5px;
+}
+.blackbg {
+  height: 400px;
+}
+.whitebg {
+  margin: 40px;
+}
+.contact {
+  margin-top: 40px;
+  background-color: rgb(70, 69, 68);
+  color: rgb(255, 255, 255);
+  padding-top: 20px;
+}
+.contact-item2 {
+  padding: 2rem 7rem 5rem 5rem;
+}
+.contact-item {
+  width: 40%;
+  margin-left: 250px;
+}
+.c-heading {
+  text-align: center;
+}
+.contact-img {
+  width: 30px;
+}
+footer {
+  background-color: rgb(39, 39, 39);
+  color: rgb(141, 135, 135);
+  text-align: center;
+  padding: 0.5em 0;
+}
+.main {
+  height: 655px;
+  width: 100%;
+  text-align: center;
+  color: rgb(10, 10, 10);
+  padding-top: 200px;
+  font-weight: 900;
+}
+.bg {
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  opacity: 1.5;
+  height: 700px;
+}
+.navbar {
+  padding: 1px 0;
+}
