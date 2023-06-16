@@ -1,9 +1,7 @@
 # Payment-Gateway-Integration
 #GRIP #thesparksfoundation #GRIPNOVEMBER21
 
-This is a simple website where payment gateway is integrated.
-There is a simple donate button on homepage. On clicking the donate button, the user will land on the payment page where user can select the amount to be paid to and the payment type e.g. credit card, UPI ID, QR code, etc.
-Once the payment is done an invoice will be generated and an email will be sent to the user for the payment received. 
+This website features an integrated payment gateway, allowing users to make donations. The homepage prominently displays a donate button, which when clicked, redirects the user to a dedicated payment page. On this page, users can select the desired donation amount and choose from various payment options such as credit card, UPI ID, or QR code. After completing the payment, an invoice is automatically generated, and a confirmation email is sent to the user, acknowledging the payment received.
 
 Technologies used : HTML, CSS, Bootstrap.
 
