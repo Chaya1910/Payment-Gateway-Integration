@@ -1,8 +1,26 @@
-# Payment-Gateway-Integration
-#GRIP #thesparksfoundation #GRIPNOVEMBER21
+<!DOCTYPE html>
+<html>
+<head>
+  
+</head>
+<body>
 
-This website features an integrated payment gateway, allowing users to make donations. The homepage prominently displays a donate button, which when clicked, redirects the user to a dedicated payment page. On this page, users can select the desired donation amount and choose from various payment options such as credit card, UPI ID, or QR code. After completing the payment, an invoice is automatically generated, and a confirmation email is sent to the user, acknowledging the payment received.
+<h1>Payment Gateway Integration</h1>
 
-Technologies used : HTML, CSS, Bootstrap.
+<p><strong>GRIP November 2021 | The Sparks Foundation</strong></p>
 
-IDE used: Visual Studio Code
+<a href="https://payment-gateway-integration-chaya.netlify.app/">Live Demo</a>
+
+<h2>Overview</h2>
+<p>This web application features an integrated payment gateway that allows users to make donations with ease. It was developed as part of the GRIP (Graduate Rotational Internship Program) with The Sparks Foundation in November 2021.</p>
+
+<h2>Technologies Used</h2>
+<p>This project was built using the following technologies:</p>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Bootstrap</li>
+</ul>
+
+</body>
+</html>
